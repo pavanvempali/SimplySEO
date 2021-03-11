@@ -1,0 +1,14 @@
+prerequisite
+node should be installed on the machine
+VS Code for React
+Visual Studio 2019 for ASP.Net Core API
+Make sure the port number of the API in launchSetting.json is matching the App.js file React application
+
+Download the ASP.Net Core code
+Open in Visual Studio 2019 and run the code
+
+Download the React code
+goto react-api-cyrp in command prompt 
+type npm install 
+
+
